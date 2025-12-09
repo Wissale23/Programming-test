@@ -32,9 +32,9 @@ public class Status{
             };
         }
         else{
-            return "Active";
+            return "Inactive";
         }
-        return "Inactive";
+        return "Active";
     }
 
 }
